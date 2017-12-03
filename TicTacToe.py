@@ -1,5 +1,6 @@
 # 12/03/2017
 # Jianing Sun
+# TODO: a little verbose. Should be shorter if I wrote the code in a more efficient way.
 
 
 from IPython.display import clear_output

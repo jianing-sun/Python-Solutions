@@ -2,6 +2,8 @@
 # Have the user enter a number and
 # generate a fibonacci sequence
 # which size is equivalent to that number
+# 12/08/2017
+# Jianing Sun
 
 def user_input():
     user_num = input('Please enter an integer: ')

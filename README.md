@@ -1,4 +1,4 @@
-# Python practice everyday
+# Python practice
 
 A personal python practice process
 
@@ -10,4 +10,4 @@ Just for fun. Finished on Dec 3rd, 2017.
 Feel free to test the .py files and I would be very appreciated if you can comment with any bugs/suggestions to make it better.
 Thanks!
 
-One python a day, makes hairs away. ;)
+One python a day, makes hair away. ;)

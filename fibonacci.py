@@ -8,7 +8,7 @@
 def user_input():
     user_num = input('Please enter an integer: ')
     while user_num.isdigit() == False:
-        user_num = input('Please enter an INTEGER: ')  # Todo: try another warning approach by try-else-finally
+        user_num = input('Please enter an INTEGER: ')  # Todo: try another warning approach by try-except-finally
     user_num = (int)(user_num)
     return user_num
 

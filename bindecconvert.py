@@ -1,3 +1,11 @@
+# A binary/decimal convertor
+# you can convert a binary number to decimal or a decimal number to binary
+# note that reduce is a good function, it can transfer a list of digits to one number they correspond to
+# we know that we can't simply convert a digit to a string (1 -> '1' is difficult
+
+
+from functools import reduce
+
 def binTodec(bin):
     if not isinstance(bin, int):
         try:
@@ -25,8 +33,14 @@ def bin_test(bin):
 
 
 def decTobin(dec):
-    pass
-
+    i = 0
+    bin = list()
+    while (dec / 2) != 0:
+        temp = dec % 2
+        dec //= 2
+        bin.append(temp)
+    bin = bin[::-1]
+    return reduce(lambda x,y: x*10 + y, bin)
 
 
 if __name__ == '__main__':
@@ -38,4 +52,6 @@ if __name__ == '__main__':
             print(get_dec)
         else:
             user_bin = int(input('Please input a binary number: '))
-
+        user_dec = int(input('Please input a decimal number: '))
+        get_bin = decTobin(user_dec)
+        print(get_bin)

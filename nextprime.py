@@ -32,4 +32,4 @@ if __name__ == '__main__':
             prime = generator(prime)
             print(prime)
         else:
-            current = 0
+            # current = 0

@@ -7,6 +7,7 @@ Just for fun. Finished on Dec 3rd, 2017.
 2. A fibonacci generator. Finished on Dec 8th, 2017.
 3. Prime factorization. Finished on Dec 8th, 2017.
 4. Next prime. Finished on Dec 11th, 2017.
+5. bin -> dec / dec -> bin convertor. Started from Dec 11th, 2017. To be continued.
 
 Feel free to test the .py files and I would be very appreciated if you can comment with any bugs/suggestions to make it better.
 Thanks!

@@ -10,6 +10,7 @@ Just for fun. Finished on Dec 3rd, 2017.
 5. bin -> dec / dec -> bin convertor. Started from Dec 11th, 2017. To be continued. Finished on Dec 12th.
 6. Simple alarm clock uses winsound, os, and time package. Finished on Dec 12th. 
 7. Simple calculator. Finished on Dec 14th.
+8. Factorial finder with two methods: recursion and loop. Finished on Dec 14th.
 
 Feel free to test the .py files and I would be very appreciated if you can comment with any bugs/suggestions to make it better.
 Thanks!

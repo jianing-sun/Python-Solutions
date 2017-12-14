@@ -3,6 +3,8 @@
 # n-1, n-2,...1 and the factorial of 0 is defined as being 1
 # solve this using both loops and recursion
 
+# mode = 0 for recursion, mode = 1 for loop
+
 import pdb
 
 mode = {'recursion': 0, 'loop': 1}

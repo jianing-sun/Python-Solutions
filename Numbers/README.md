@@ -1,4 +1,4 @@
-# Python practice
+# Python practice - Numbers
 
 A personal python practice sets
 
@@ -13,6 +13,7 @@ Just for fun. Finished on Dec 3rd, 2017.
 8. Factorial finder with two methods: recursion and loop. Finished on Dec 14th.
 9. Complex number algerba. Compute the addition and multiplication of two complex numbers. Finished on Dec 14th.
 10. An interesting happy number generator. Finished on Dec 14th.
+11. Coin flip simulation. Finished on Dec 15th.
 
 Feel free to test the .py files and I would be very appreciated if you can comment with any bugs/suggestions to make it better.
 Thanks!

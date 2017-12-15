@@ -1,7 +1,7 @@
 # A binary/decimal convertor
 # you can convert a binary number to decimal or a decimal number to binary
 # note that reduce is a good function, it can transfer a list of digits to one number they correspond to
-# we know that we can't simply convert a digit to a string (1 -> '1' is difficult
+# we know that we can't simply convert a digit to a string (1 -> '1') is difficult
 
 
 from functools import reduce

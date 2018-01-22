@@ -5,5 +5,5 @@ http://nbviewer.jupyter.org/github/jmportilla/Complete-Python-Bootcamp/blob/mast
 Start from Dec 2017.   
 There would be several folders, including Numbers, Texts, etc.   
 
-Jianing Sun 
+SUNJIANING
 @ McGill University
